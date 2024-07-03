@@ -6,6 +6,7 @@ class ZCL_TEST_SRINATH definition
 public section.
 
   methods GETDATA .
+methods SETDATA .
 protected section.
 private section.
 ENDCLASS.
@@ -16,5 +17,8 @@ CLASS ZCL_TEST_SRINATH IMPLEMENTATION.
 
 
   method GETDATA.
+  endmethod.
+
+  method SETDATA.
   endmethod.
 ENDCLASS.
