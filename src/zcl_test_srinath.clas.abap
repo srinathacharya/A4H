@@ -9,6 +9,6 @@ private section.
 ENDCLASS.
 
 
-
+*test
 CLASS ZCL_TEST_SRINATH IMPLEMENTATION.
 ENDCLASS.
