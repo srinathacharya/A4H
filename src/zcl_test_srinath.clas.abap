@@ -4,11 +4,17 @@ class ZCL_TEST_SRINATH definition
   create public .
 
 public section.
+
+  methods GETDATA .
 protected section.
 private section.
 ENDCLASS.
 
 
-*test
+
 CLASS ZCL_TEST_SRINATH IMPLEMENTATION.
+
+
+  method GETDATA.
+  endmethod.
 ENDCLASS.
